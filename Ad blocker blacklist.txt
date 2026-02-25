@@ -1,6 +1,5 @@
 #百度放行
 @@||m.baidu.com^$important
-@@||hm.baidu.com^$important
 #未知放行
 ||yumao.puata.info^$important
 @@||acs-m.koubei.com^
