@@ -1,3 +1,5 @@
+||api.seayoo.com^$important
+||metrics.icloud.com^$important
 @@||zhuanzhuan.com^$important
 ||tnc*-aliec*.zijieapi.com^$important
 ||aiclk.com^$important
