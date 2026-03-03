@@ -39,12 +39,14 @@
 ||77img.plxao.com^$important
 ||c8b12.d8md92m.top^$important
 ||v3y7c.top^$important
-||sjhxpjd4vzns.com^$important||v3y7c.top^$important
+||sjhxpjd4vzns.com^$important
 ||g2tr92m.top^$important
 ||e52k6es.top^$important
 ||m8g4e.top^$important
 ||f7180.e52k6es.top^$important
 ||ww8p0.top^$important
+||fdxadiv.com^$important
+||tqezu.com^$important
 
 # 针对喜马拉雅的拦截规则，勿删
 ||open.ximalaya.com^$important
@@ -63,10 +65,10 @@
 # 针对腾讯QQ的拦截规则，勿删
 ||compliance.tdos.qq.com^$important
 @@||c.pc.qq.com^$important
-||report.*.com^$important
 ||tianshu.gtimg.cn^$important
 
 # 针对百度的拦截规则，勿删
+||s.bdstatic.com^$important
 ||wjz-cdn.baidu.com^$important
 ||pcdn-tracker.baidu.com^$important
 ||recommend_list.baidu.com^$important
@@ -174,6 +176,28 @@
 ||info.mina.xiaoaisound.com^$important
 
 # 拦截木马网站跳转，防劫持
+||x7m1y3.*^$important
+||s5yx5w.top^$important
+||api12976546579843116546.*^$important
+||t5v3u5.top^$important
+||wyla67x.com^$important
+||r3ev1r.top^$important
+||hx3m5vq.com^$important
+||ce2b8dz.com^$important
+||yimzoo36.com^$important
+||juejin.cn^$important
+||chunyina.co^$important
+||weiyaonuo.co^$important
+||yopengtong.co^$important
+||cisengai.top^$important
+||drenling.vip^$important
+||nisangna.co^$important
+||tuinihui.vip^$important
+||kuankuosan.net^$important
+||duanyanglun.net^$important
+||baolilei.vip^$important
+||kuxiseng.vip^$important
+||qwe25hh.com^$important
 ||holvxfq.com^$important
 ||iymgmtq.com^$important
 ||cyfupnq.com^$important
@@ -707,10 +731,17 @@
 ||mmsp062.top^$important
 ||gsvxs062.top^$important
 ||t906377.vip^$important
-||cyfupnq.com^$important
-||fohbgjv.com^$important
-||b5gvpk5.com^$important
-||eavztdi.com^$important
+||44444444444.xyz^$important
+||55555555555.online^$important
+||3333333333333.xyz^$important
+||35072.net^$important
+||84652.net^$important
+||65564535.com^$important
+||273343.com^$important
+||269335.com^$important
+||02539717.com^$important
+||177638.com^$important
+||3377539.app^$important
 
 # 针对OPPO/一加云控拦截
 ||129.227.29.163^$important
@@ -727,7 +758,7 @@
 ||106.3.18.4^$important
 
 # 拦截HTTPDNS相关域名链接
-||hdns.ksyun.com$important
+||hdns.ksyun.com^$important
 ||apidns.kwd.inkuai.com^$important
 ||httpdns.*^$important
 ||dns*.weixin.qq.*^$important
@@ -742,6 +773,7 @@
 ||catdot.dianping.com^$important
 ||dot.api.idmzj.com^$important
 ||doh.iqiyi.com^$important
+||paydns.wechatpay.cn^$important
 
 # 针对网易云音乐的广告拦截规则
 ||nstool.netease.com^$important
@@ -769,10 +801,10 @@
 
 # 针对字节跳动系列广告的拦截规则
 ||crashlytics.com^$important
-||ads*-normal-hl.zijieapi.com^important
-||log*-applog-hl.fqnovel.com^important
-||rtlog*-applog-hl.fqnovel.com^important
-||p*-ad-sign.byteimg.com^important
+||ads*-normal-hl.zijieapi.com^$important
+||log*-applog-hl.fqnovel.com^$important
+||rtlog*-applog-hl.fqnovel.com^$important
+||p*-ad-sign.byteimg.com^$important
 ||abtest*-misc-*.zijieapi.com^$important
 ||gecko5-lq.zijieapi.com^$important
 ||zlink.toutiao.com^$important
@@ -831,7 +863,9 @@
 ||ugsdk.cn^$important
 ||track.ranfenghd.com^$important
 ||tnc*-alisc*.zijieapi.com^$important
+@@||saveu5-normal-lq.zijieapi.com^$important
 @@||ecombdimg.com^$important
+@@||content-open.douyin.com^$important
 
 # 屏蔽国家反诈中心及其相关域名
 ||g*fzpt.cn^$important
@@ -861,6 +895,7 @@
 ||appsflyersdk.com^$important
 ||catfront.dianping.com^$important
 ||alita.waimai.meituan.com^$important
+@@||mrn.meituan.net^$important
 
 # 针对小米相册AI编辑的放行规则
 @@||mcc.inf.miui.com^$important
@@ -905,6 +940,59 @@
 ||cdn.smartimg.chelaile.net.cn^$important
 
 # 针对部分小众广告联盟的规则
+||uodoo.com^$important
+||lianliyuntools.com^$important
+||camerascanner.cn^$important
+||wificheck.cn^$important
+||shouji.360.cn^$important
+||resource.fjhongbo.com^$important
+||byteww.com^$important
+||achangxingzy.xyz^$important
+||jianxiaw.com^$important
+||seeye.cn^$important
+||xgplayer.com^$important
+||hioak.cn^$important
+||duodunj.com^$important
+||yaoqinit.com^$important
+||yksdks.com^$important
+||mobsurl.com^$important
+||shengqu99.com^$important
+||lingyuert.xyz^$important
+||yingt.fun^$important
+||feiriver.com^$important
+||xiaozhuowuxian.com^$important
+||zhuoyixt.xyz^$important
+||njdunzhuoyue.cn^$important
+||adhuanxiao.com^$important
+||jsddx.cn^$important
+||yuntukc.cn^$important
+||njzhimao.cn^$important
+||dingjiwangluo.com^$important
+||nbc5n.com^$important
+||coin-api.y5coin.com^$important
+||tutu-movie-protect-test.ttwifi.net^$important
+||fanghenet.com^$important
+||shengqu360.com^$important
+||appcenter.ms^$important
+||jiatouyihao.cn^$important
+||shanghaierma.cn^$important
+||bikongzy.cn^$important
+||sqcat.cn^$important
+||51star.top^$important
+||kuyin123.com^$important
+||sumatang.com^$important
+||wsyhn.com^$important
+||yixiaosh.top^$important
+||duodutek.com^$important
+||njdaergou.cn^$important
+||baizlink.com^$important
+||daqqd.com^$important
+||ctjpqg.cn^$important
+||uxhbai.cn^$important
+||tsyouto.cn^$important
+||quminglemei.com^$important
+||haizhlink.com^$important
+||ttlaosiji.*^$important
 ||zhangyuyidong.cn^$important
 ||edimob.com^$important
 ||medproad.com^$important
@@ -944,6 +1032,7 @@
 # 针对WiFi万能钥匙的广告拦截规则
 ||wkanx.com^$important
 ||track-gateway.y5kfpt.com^$important
+||track-*.y5kfpt.com^$important
 ||domobcdn.com^$important
 ||*-adnet.vivo.com.cn^$important
 ||promotion-partner.kuaishou.com^$important
@@ -976,6 +1065,7 @@
 
 # 针对木鸟民宿的广告拦截规则
 ||applog-bd.muniao.com^$important
+||applog-*.*^$important
 ||api-share.mob.com^$important
 
 # 针对安卓AppleMusic的放行规则
@@ -1058,6 +1148,8 @@
 ||vip.huijujiavip.com^$important
 
 # 针对酷狗音乐的广告拦截规则
+||voowebpbssdl.kugou.com^$important
+||h5retry.kugou.com^$important
 ||adserviceretry.kglink.cn^$important
 ||zhiyan.monitor.tencent-cloud.net^$important
 ||gad.kugou.com^$important
@@ -1194,6 +1286,14 @@
 ||qd8kg9.cc^$important
 ||fng3pf.cc^$important
 ||apijm.cc^$important
+||51cb2.wnvilxo.xyz^$important
+||dym74.cc^$important
+||vqyzdzcg.shop^$important
+||rhiavsqwiagj.com^$important
+||d1pet980gnovm9.cloudfront.net^$important
+||kkmm.eghyahl.com^$important
+||sharkcloud.app^$important
+||iqq*.work^$important
 
 # 针对COSAV的部分广告拦截规则
 ||d1p94ayohba0l5.cloudfront.net^$important
@@ -1223,6 +1323,7 @@
 
 # 拦截小米更新推送相关规则
 ||api.developer.xiaomi.com^$important
+||developer.xiaomi.com^$important
 
 # 拦截小米应用商店广告相关规则
 ||app.market.xiaomi.com^$important
@@ -1241,7 +1342,6 @@
 ||ssp.vivo.com.cn^$important
 ||ssp-sdk-config.uc.cn^$important
 ||partner.uc.cn^$important
-||paydns.wechatpay.cn^$important
 
 # 针对一些机场的误杀放行规则
 @@||xn--ehqx7tcnnope.com^$important
@@ -1252,19 +1352,96 @@
 @@||tnc3-alisc1.snssdk.com^$important
 
 # 针对KiMiAPP的误杀放行规则
-@@||prod-chat-kimi.tos-cn-beijing.volces.com^$importa
+@@||prod-chat-kimi.tos-cn-beijing.volces.com^$important
 
 # 针对度小满/有钱花的广告拦截规则
 ||plusjrmallstatic.cdn.bcebos.com^$important
 
-# 针对夸克网盘App的误杀放行规则
-@@||pan.quark.cn^$important
+# 针对UC/夸克网盘的误杀放行规则
+@@||quark.*^$important
 @@||download.uc.cn^$important
+@@||broccoli.uc.cn^$important
+@@||id-card.yun.cn^$important
+@@||*-api.uc.cn^$important
+@@||clouddrive-activity.uc.cn^$important
+@@||ucus.ucweb.com^$important
+@@||ynuf.alipay.com^$important
+@@||order.sm.cn^$important
+@@||*-album.uc.cn^$important
+@@||user-auth-server.uc.cn^$important
+@@||id.uc.cn^$important
+@@||drive.uc.cn^$important
+@@||pan.quark.cn^$important
 @@||novel-api.quark.cn^$important
 @@||access-open.quark.cn^$important
 
-# 针对OPPO主题卡片的误杀放行规则
+# 针对OPPO主题相关的误杀放行规则
 @@||smartcard.apps.coloros.com^$important
+@@||weather-api-cn.allawntech.com^$important
+
+# 针对淘宝系部分误杀放行规则
+@@||uland.taobao.com^$important
+@@||s.click.*.com^$important
+
+# 针对阿里矢量图标库的误杀放行规则
+@@||www.iconfont.cn^$important
+
+# 针对钉钉办公App的误杀放行规则
+@@||retcode.taobao.com^$important
+@@||report.dingtalk.com^$important
+
+# 针对工银e生活的误杀放行规
+@@||ac.opapp.cn^$important
+
+# 针对徐小包奶茶小程序误杀放行规则
+@@||acs-m.koubei.com^$important
+
+# 针对clicli动漫的误杀放行规则
+@@||xn--vhq3x51dn9bivas49nfps.com^$important
+
+# 针对萤石云视频的广告拦截规则
+||ad-material.*.com^$important
+||sdk-ab-config-cdn.yunxish.com^$important
+||appdownload.ys7.com^$important
+
+# 针对123网盘App跳转误杀放行规则
+@@||c.umsns.com^$important
+
+# 针对佛涛命理大师的误杀放行规则
+@@||i.fotao9.com^$important
+
+# 针对京东App的误杀放行规则
+@@||ccc-x.jd.com^$important
+@@||knicks.jd.com^$important
+@@||second-floor-pro.pf.jd.com^$important
+
+# 针对网上国网App的误杀放行规则
+@@||tdid.m.qq.com^$important
+
+# 针对城市英雄小程序误杀放行规则
+@@||capi.jingjianx.vip^$important
+
+# 针对抖音人脸验证误杀放行规则
+@@||i.snssdk.com^$important
+
+# 针对快手短视频的广告拦截规则
+||xxpkg.com^$important
+||comfylink.com^$important
+||djvod.ndcimgs.com^$important
+
+# 针对王者荣耀活动误杀放行规则
+@@||img.ssl.msdk.qq.com^$important
+
+# 针对小米应用商店误杀放行规则
+@@||xn--osvr71goa.com^$important
+
+# 针对午夜AV的广告拦截规则
+||s1-a1.global-cdn.me^$important
+||pptstatic.wyav.tv^$important
+
+# 针对彩虹多多App的广告拦截规则
+||yunxish.com^$important
+||adxvip.com^$important
 
 # 番茄小说全局拦截
 ||*^$all,app=com.dragon.read
