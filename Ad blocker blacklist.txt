@@ -1,3 +1,4 @@
+@@||d.toutiao.com^$important
 @@||pic.imgdb.cn
 @@||payapp.weixin.qq.com^$important
 @@||pan.quark.cn^$important
