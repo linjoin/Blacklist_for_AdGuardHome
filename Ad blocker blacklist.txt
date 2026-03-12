@@ -1,3 +1,4 @@
+@@||px.ucweb.com^$important
 @@||d.toutiao.com^$important
 @@||pic.imgdb.cn
 @@||payapp.weixin.qq.com^$important
