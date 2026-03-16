@@ -1,11 +1,7 @@
 # AdGuard 黑名单规则
 # 生成时间: 2026-03-17 00:42:31
-# 来源文件: /storage/emulated/0/raw.githubusercontent.com-linjoin-Adguard_Interception_list-refs-heads-main-Ad blocker blacklist.txt
 # 规则数量: 1047
 
-type="text/html";
-boundary="----MultipartBoundary--2eHwyXqnEs5G1rBHwYdKj9IYJNHV9XInj5E8HnWFqx----"
-pre style="word-wrap: break-word; white-space: pre-wrap;">@@||px.ucweb.co=
 m^$important
 ||log.uu.163.com^$important
 ||ksmobile.com^$important
