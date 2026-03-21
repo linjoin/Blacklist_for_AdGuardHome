@@ -1,3 +1,4 @@
+||api.wmpvp.com^$important
 ||dl.reg.163.com^
 ||tpc.googlesyndication.com^
 ||s.click.taobao.com^
